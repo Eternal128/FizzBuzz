@@ -55,7 +55,7 @@ which enables basic typesetting when viewed while still being a plaintext format
 editing and version control.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] (with no spaces) to mark this as done!
+- [X] Put an X in the [ ] (with no spaces) to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
@@ -74,7 +74,7 @@ Formally as a coding task, let `i` be an integer greater than zero and output th
 * If `i` is divisible by 3 and 5, print the string `Fizz Buzz` (note the space)
 * Otherwise, print the value of `i`
 
-- [ ] Try a short game of Fizz Buzz with your team now.
+- [X] Try a short game of Fizz Buzz with your team now.
 
 ---
 
@@ -177,7 +177,7 @@ method `main` in the file you choose to run.
 
 ### Task 1.1: Rewrite this using `while`
 
-- [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
+- [X] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
 ## How to test this code
@@ -195,7 +195,7 @@ test the calculation for several interesting numbers more easily.
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`.
 
-- [ ] Rerun the program to verify that it still works.
+- [X] Rerun the program to verify that it still works.
 
 That's your first big IntelliJ trick! There are lots more.
 
@@ -208,7 +208,7 @@ That's your first big IntelliJ trick! There are lots more.
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
-- [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have
+- [X] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have
   modified `FizzBuzz.java` (and possibly this README too!).
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
